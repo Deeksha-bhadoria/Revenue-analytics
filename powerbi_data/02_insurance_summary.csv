@@ -1,0 +1,5 @@
+insurance_type,total_claims,total_billed,total_allowed,total_paid,revenue_gap,avg_billed,avg_paid,collection_rate_pct
+Commercial,259,78520.0,58954.0,53165.0,25355.0,303.17,205.27,67.71
+Medicaid,259,78094.0,58805.0,53177.0,24917.0,301.52,205.32,68.09
+Self-Pay,249,74525.0,56167.0,50256.0,24269.0,299.3,201.83,67.44
+Medicare,233,66052.0,49186.0,44156.0,21896.0,283.48,189.51,66.85

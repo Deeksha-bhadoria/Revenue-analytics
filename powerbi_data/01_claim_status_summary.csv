@@ -1,0 +1,4 @@
+claim_status,total_claims,total_billed,total_allowed,total_paid,revenue_gap,avg_billed,avg_paid,pct_of_total
+Under Review,338,97907.0,73531.0,66000.0,31907.0,289.67,195.27,33.8
+Paid,334,101215.0,76237.0,68823.0,32392.0,303.04,206.06,33.4
+Denied,328,98069.0,73344.0,65931.0,32138.0,298.99,201.01,32.8

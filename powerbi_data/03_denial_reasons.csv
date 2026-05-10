@@ -1,0 +1,9 @@
+reason_code,denied_count,pct_of_denials,billed_at_risk,avg_billed
+Incorrect billing information,49,14.94,15261.0,311.45
+Authorization not obtained,48,14.63,13636.0,284.08
+Pre-existing condition,45,13.72,12139.0,269.76
+Patient eligibility issues,41,12.5,11739.0,286.32
+Lack of medical necessity,40,12.2,13087.0,327.18
+Duplicate claim,40,12.2,11366.0,284.15
+Missing documentation,37,11.28,11729.0,317.0
+Service not covered,28,8.54,9112.0,325.43

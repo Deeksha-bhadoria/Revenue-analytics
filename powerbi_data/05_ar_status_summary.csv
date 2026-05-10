@@ -1,0 +1,7 @@
+ar_status,total_claims,total_billed,total_paid,revenue_at_risk,avg_billed,needs_followup
+On Hold,177,54211.0,35911.0,18300.0,306.28,90
+Partially Paid,184,53040.0,35902.0,17138.0,288.26,91
+Open,160,48606.0,33097.0,15509.0,303.79,90
+Pending,162,46804.0,31547.0,15257.0,288.91,80
+Denied,157,46845.0,31608.0,15237.0,298.38,85
+Closed,160,47685.0,32689.0,14996.0,298.03,86

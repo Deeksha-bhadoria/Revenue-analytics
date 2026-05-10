@@ -1,0 +1,25 @@
+outcome,follow-up_required,insurance_type,total_claims,total_billed,total_paid
+Paid,No,Medicaid,53,15756.0,10457.0
+Paid,Yes,Commercial,53,15777.0,10641.0
+Paid,Yes,Medicaid,49,15707.0,10257.0
+Partially Paid,Yes,Medicaid,49,15345.0,10382.0
+Denied,Yes,Commercial,47,14126.0,9625.0
+Paid,Yes,Medicare,46,13225.0,8742.0
+Partially Paid,Yes,Self-Pay,46,14543.0,9876.0
+Denied,No,Self-Pay,44,12755.0,8577.0
+Denied,Yes,Medicaid,44,12597.0,8880.0
+Denied,Yes,Self-Pay,44,12997.0,9079.0
+Paid,No,Commercial,42,13078.0,8806.0
+Denied,No,Commercial,41,12348.0,8288.0
+Partially Paid,No,Self-Pay,41,12743.0,8218.0
+Denied,No,Medicare,40,11696.0,7806.0
+Paid,No,Medicare,40,11145.0,7434.0
+Partially Paid,Yes,Commercial,40,11361.0,7902.0
+Partially Paid,No,Medicare,39,12180.0,8256.0
+Paid,No,Self-Pay,38,11104.0,7350.0
+Denied,Yes,Medicare,37,9773.0,6524.0
+Paid,Yes,Self-Pay,36,10383.0,7156.0
+Partially Paid,No,Commercial,36,11830.0,7903.0
+Denied,No,Medicaid,34,9865.0,6941.0
+Partially Paid,Yes,Medicare,31,8033.0,5394.0
+Partially Paid,No,Medicaid,30,8824.0,6260.0
