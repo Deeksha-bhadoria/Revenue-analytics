@@ -72,10 +72,10 @@ claim_data.csv → Python (clean) → SQL (analyze) → 8 CSVs → Power BI → 
 ## 📊 Dashboard Pages
 
 ### Page 1 — Executive Overview
-![Denials](PowerBi%20dashboard/dashboard_denials.png)
+![Overview](PowerBi%20dashboard/dashboard_overview.png)
 
 ### Page 2 — Denial Analysis & Financial & AR Analysis
-![Overview](PowerBi%20dashboard/dashboard_overview.png)
+![Denials](PowerBi%20dashboard/dashboard_denials.png)
 
 ---
 
