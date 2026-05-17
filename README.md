@@ -94,8 +94,8 @@ claim_data.csv → Python (clean) → SQL (analyze) → 8 CSVs → Power BI → 
 ```
 ├── data/                  → raw input data
 ├── powerbi_data/          → cleaned CSVs loaded into Power BI
-├── notebook/              → Jupyter notebook (Python + SQL)
-├── dashboard/             → Power BI screenshots
+├── Untitled.ipynb/        → Jupyter notebook (Python + SQL)
+├── PowerBi dashboard/     → Power BI screenshots
 └── README.md
 ```
 
